@@ -1,5 +1,6 @@
 // QUEUE
 // first in first out
+
 export function createQueue(params) {
   const queue = [];
 
